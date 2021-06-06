@@ -1,6 +1,8 @@
 # Pro-Tools-music-produciton
 Music Production project using Pro-Tools
 
+![](https://github.com/ippokratis91/Pro-Tools-music-produciton/blob/main/Sun_Of_Spring/PTSoft-e-large.jpg)
+
 # Download & Listen
 You can download the .wav file here: https://github.com/ippokratis91/Pro-Tools-music-produciton/blob/main/Sun_Of_Spring/Sun%20For%20Spring.wav
 
